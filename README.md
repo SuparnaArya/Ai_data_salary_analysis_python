@@ -1,0 +1,1 @@
+This is a data analysis and visualization notebook made with Python on AI-Data Salary dataset collected from ai-jobs.net. The dataset link: [https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024]
